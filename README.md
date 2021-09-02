@@ -1,1 +1,1 @@
-# manques-Products-Inventory-Management
+# Products-Inventory-Management
