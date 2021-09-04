@@ -1,2 +1,2 @@
 # Products-Inventory-Management
-[Link](https://glorious-laborer.surge.sh/)
+## click [https://glorious-laborer.surge.sh/](https://glorious-laborer.surge.sh/)
