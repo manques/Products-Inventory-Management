@@ -1,8 +1,13 @@
 import React from 'react';
+import Navigation from './navigation/navigation';
+import { ThemeProvider } from '@material-ui/core/styles';
+import theme from './theme/theme';
 
 const App = props => {
     return (
-        <h1>react setup using webpack</h1>
+        <ThemeProvider theme={theme}>
+            <Navigation />
+        </ThemeProvider>
     );
 }
 
